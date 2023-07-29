@@ -8,5 +8,7 @@ public class tekclassatma {
         Scanner scanner=new Scanner(System.in);
         System.out.println("denemeler");
         String x= scanner.nextLine();
+        System.out.println(x.toUpperCase());
+
     }
 }
